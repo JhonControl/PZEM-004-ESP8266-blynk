@@ -31,9 +31,9 @@ Contiene 2 Carpetas:
 ## Library / Librerias
 
 
-**Ubidots** for ESP8266-1 stand-alone
+**Blynk** for ESP8266
 
- * [ESP8266-1 stand-alone  **UbidotsMicroESP8266.h**  ](https://github.com/ubidots/ubidots-esp8266) - Library Ubidots for esp8266
+ * [ESP8266  **BlynkSimpleEsp8266.h**  ](https://github.com/blynkkk/blynk-library) - Library Ubidots for esp8266
 
 Thanks for contributing 
 
