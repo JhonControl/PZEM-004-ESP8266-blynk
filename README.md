@@ -1,6 +1,6 @@
 # Meter PZEM-004 + ESP8266 & Platform IoT Blynk App
 
-Version 1.0   Date 09-05-2018   [PDAControl](http://pdacontrolen.com)
+Version 1.0   Date 27-03-2018   [PDAControl](http://pdacontrolen.com)
 
 ![alt text](http://pdacontroles.com/wp-content/uploads/2018/03/Basic-Blynk-PZEM-004_part1-1024x576.png "ESP-blynk")
 
@@ -19,9 +19,7 @@ Contains 2 Folders:
 
 ## Descripción
 
-Prueba de medición de potencia Activa o consumo eléctrico con Medidor PZEM-004 de Peacefair y ESP8266 envio de datos
-
-y visualización en la Plataforma IoT blynk App.
+Prueba de medición de potencia Activa o consumo eléctrico con Medidor PZEM-004 de Peacefair + ESP8266 envio de datos y visualización en la Plataforma IoT blynk App.
 
 Contiene 2 Carpetas:
 
@@ -35,7 +33,7 @@ Contiene 2 Carpetas:
 
 **Ubidots** for ESP8266-1 stand-alone
 
- * [ESP8266-1 stand-alone  **UbidotsMicroESP8266.h**  ](https://github.com/ubidots/ubidots-esp8266) - This module provides a set of nodes in Node-RED to quickly create a live data dashboard.
+ * [ESP8266-1 stand-alone  **UbidotsMicroESP8266.h**  ](https://github.com/ubidots/ubidots-esp8266) - Library Ubidots for esp8266
 
 Thanks for contributing 
 
